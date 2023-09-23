@@ -1,20 +1,20 @@
-<h1 align="center">Hola 👋, soy Antonio Montes de Oca</h1>
-<h3 align="center">Un apasionado de los datos y su análisis, de origen venezolano.</h3>
+<center> # AntonioMDO </center>
 
-<p align= " left"> <img src="https://komarev.com/ghpvc/?username=antoniomdo&label=Profile%20views&color=0e75b6&style=flat" alt="antoniomdo" /> </p>
+## Sobre mi
+Hola 👋, soy Antonio Montes de Oca.
+Actualmente, estoy realizando mis estudios en Data scientist para mejorar mis conocimientos y hacer un análisis de datos más eficiente. Me gradué como Ing. Sistemas de Calidad y aplico todas mis experiencias adquiridas para mejorar en el campo analítico y lograr una visualización productiva de los datos.
 
-- 🌱 Actualmente estoy aprendiendo * *Ciencia de datos**
+- 🌱 Actualmente estoy aprendiendo **Ciencia de datos**
 
 - 💬 Pregúntame sobre **Análisis de datos**
 
+## Lenguajes y Tecnologías
+En mis repositorios encontraras contenido relacionado con:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-jos%C3%A9-montes-de-oca-%C3%A1lvarez-9a4375182/)
+
 - 📫 Cómo contactarme **antoniojmdo@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align ="izquierda">
-<a href="https://linkedin.com/in/antonio montes de oca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- perfil-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio montes de oca" height="30" width="40" /></a> <
-a href="https://discord.gg/antoniomdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/discord.svg" alt="antoniomdo" height="30" width="40" /></a> </p>
-<
-
-h3 align="left">Idiomas y herramientas: </h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas. pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt=" pandas" ancho="40" alto="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql " ancho="40" alto="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href=" https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/ " target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height=" 40"/> </a> </p>svg" alt="nacido en el mar" ancho="40" alto="40"/> </a> </p>svg" alt="nacido en el mar" ancho="40" alto="40"/> </a> </p>
 
