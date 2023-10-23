@@ -6,7 +6,7 @@ Actualmente, estoy realizando mis estudios en Data scientist para mejorar mis co
 
 - 🌱 Actualmente estoy aprendiendo **Ciencia de datos**
 
-- 💬 Pregúntame sobre **Análisis de datos, calidad y producción**
+- 💬 Pregúntame sobre **Análisis de datos**, **calidad** y **producción**.
 
 <h2 align= left>Lenguajes y Tecnologías</h2>
 En mis repositorios encontraras contenido relacionado con:
